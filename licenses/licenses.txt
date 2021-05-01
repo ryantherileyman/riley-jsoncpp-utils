@@ -1,0 +1,6 @@
+
+RileyJsonCppUtils is maintained by Ryan Robinson, known online as "Riley Entertainment", and is available under the permissive MIT License.
+See the file "RileyJsonCppUtils-mit-license.txt" for the official license text.
+
+Origin on GitHub:
+https://github.com/ryantherileyman/riley-jsoncpp-utils
