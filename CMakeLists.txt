@@ -1,7 +1,7 @@
 
 cmake_minimum_required(VERSION 3.19)
 
-project(RileyJsonCppUtils VERSION 1.0)
+project(RileyJsonCppUtils VERSION 1.1)
 
 add_subdirectory(dependencies/riley-cpp-utils)
 add_subdirectory(dependencies/json-cpp)
